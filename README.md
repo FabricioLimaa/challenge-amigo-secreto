@@ -2,16 +2,19 @@
 
 ## 📋 Descrição
 
-Este repositório contém o projeto "Challenge Amigo Secreto". O objetivo deste projeto é criar uma aplicação para gerenciar um amigo secreto, onde os participantes podem ser adicionados e sorteados automaticamente. A aplicação permite visualizar os pares formados e enviar notificações aos participantes.
+Bem-vindo ao repositório do "Challenge Amigo Secreto"! Este projeto tem como objetivo criar uma aplicação para gerenciar um amigo secreto, onde os participantes podem ser adicionados e sorteados de forma fácil e organizada.
 
 ## 💻 Tecnologias Utilizadas
 
-- 🌐 JavaScript
-- 📚 Node.js
-- 🖼️ Express.js (ou qualquer outro framework utilizado)
-- 💾 MongoDB (ou qualquer outro banco de dados utilizado)
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- 🌐 **JavaScript**: Linguagem principal para a lógica de programação.
+- 🎨 **CSS**: Estilização da interface do usuário.
+- 🖼️ **HTML**: Estruturação das páginas web.
 
 ## 🚀 Como Rodar o Projeto
+
+Siga os passos abaixo para rodar o projeto localmente:
 
 1. Clone o repositório:
     ```sh
@@ -21,20 +24,24 @@ Este repositório contém o projeto "Challenge Amigo Secreto". O objetivo deste 
     ```sh
     cd challenge-amigo-secreto
     ```
-3. Instale as dependências:
-    ```sh
-    npm install
-    ```
-4. Configure as variáveis de ambiente (se necessário):
-    - Crie um arquivo `.env` na raiz do projeto e adicione suas variáveis de ambiente.
-5. Execute a aplicação:
-    ```sh
-    npm start
-    ```
-6. Acesse a aplicação em seu navegador:
-    ```
-    http://localhost:3000
-    ```
+
+## 📦 Estrutura do Projeto
+
+A estrutura do projeto é organizada da seguinte forma:
+
+```
+challenge-amigo-secreto/
+├── css/
+│   ├── style.css
+├── js/
+│   ├── script.js
+├── index.html
+└── README.md
+```
+
+- **css/**: Contém os arquivos de estilo CSS.
+- **js/**: Contém os arquivos JavaScript.
+- **index.html**: Página principal do projeto.
 
 ## 🤝 Contribuição
 
@@ -53,3 +60,5 @@ Este projeto não possui uma licença específica.
 ## 📧 Contato
 
 - Autor: [Fabricio Lima](https://github.com/FabricioLimaa)
+
+Fique à vontade para entrar em contato se tiver dúvidas ou sugestões!
